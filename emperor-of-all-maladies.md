@@ -17,3 +17,10 @@
 * Author giving Carla her diagnosis (acute lymphoblastic leukemia)
 
 ## Chapter 1. "A Suppuration of blood"
+
+* In 1845, John Bennett described a leukemia case "A Suppuration of blood"
+* Rudolf Virchow described a case of overgrown white blood cells and called it "white blood" and changed it to "leukemia" in 1847
+* hypertrophy ... individual cells grow in size; hyperplasia ... the number grows. cancer = pathological hyperplasia. Virchow called it "neoplasia"
+* Common cancer characteristic: uncontrollable pathological cell division
+* Leukemia ... a malignant proliferation of white cells in blood
+* Chronic leukemia vs acute leukemia (AML and ALL)
