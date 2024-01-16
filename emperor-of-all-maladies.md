@@ -24,3 +24,11 @@
 * Common cancer characteristic: uncontrollable pathological cell division
 * Leukemia ... a malignant proliferation of white cells in blood
 * Chronic leukemia vs acute leukemia (AML and ALL)
+* Sidney Farber, born in Buffalo in 1903, became a full-time pathologist at Children's Hospital in Boston
+* Leukemia possessed a singularly attractive feature: it could be measured. Intervention can be evaluated in living patients
+
+## Chapter 2. "A monster more insatiable than the guillotine"
+
+* The number of hospitals and patients increased dramatically between 1940 and 1960, "victories of postwar medicine" helped, but cancer (the nation's second most common killer by 1926) still remained a black box
+* To cure cancer, doctor only had two options—surgery or radiation
+* In 1937, National Cancer Institute (NCI) was created after President Roosevelt signed an act
