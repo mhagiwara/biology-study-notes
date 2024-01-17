@@ -32,3 +32,9 @@
 * The number of hospitals and patients increased dramatically between 1940 and 1960, "victories of postwar medicine" helped, but cancer (the nation's second most common killer by 1926) still remained a black box
 * To cure cancer, doctor only had two options—surgery or radiation
 * In 1937, National Cancer Institute (NCI) was created after President Roosevelt signed an act
+* Anemia in Bombay was caused by lack of folic acid/folate—Farber wondered if administering folic acid can cure leukemia, which didn't work
+* Yalla Subbarao synthesizes folic acid from scratch, making variants (or "antifolate"), which Farber obtained
+
+## Chapter 3. "Farber's Gauntlet"
+
+* Farber used one of Yalla's "antifolate" to an ALL child (Sandler), which led to temporary remission
