@@ -38,3 +38,15 @@
 ## Chapter 3. "Farber's Gauntlet"
 
 * Farber used one of Yalla's "antifolate" to an ALL child (Sandler), which led to temporary remission
+
+## Chapter 4. A Private Plague
+
+* Cancer is an expansionist disease—it expands and invades
+* Cancer is an evolving disease
+* Author felt he was writing not about something, but about someone, thus "biography"
+* Earliest potential mention of cancer in a papyrus from Egypt, describing "a bulging mass in the breast"
+* Greek historian Herodotus records the story of Atossa, with a bleeding lump in her breast
+* First evidence of cancer (a malignant bone tumor) found in a mummy dug from the Chiribaya site
+* "There is very little early history of cancer"
+* People didn't live long enough to get cancer before civilization—civilization didn't cause cancer, but it "unveiled" it
+* Our capacity for detecting cancer, and attributing deaths to it, improved too
