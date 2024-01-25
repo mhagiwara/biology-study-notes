@@ -50,3 +50,11 @@
 * "There is very little early history of cancer"
 * People didn't live long enough to get cancer before civilization—civilization didn't cause cancer, but it "unveiled" it
 * Our capacity for detecting cancer, and attributing deaths to it, improved too
+
+## Chapter 5. Onkos
+* "Cancer" comes from karkinos, the Greek word for "crab." (from the shape of superficial tumors)
+* Onkos was the Greek term for a burden
+* Claudius Galen (a Greek writer/doctor) thought cancer was trapped black bile (out of four types of fluids, or "humors"). Removal of tumors was perceived as a fool's operation
+
+## Chapter 6. Vanishing Humors
+* Andreas Vesalius, scouring the graveywards in Paris for bodies for anatomy, couldn't find Galen's black bile
