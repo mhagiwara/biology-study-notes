@@ -58,3 +58,9 @@
 
 ## Chapter 6. Vanishing Humors
 * Andreas Vesalius, scouring the graveywards in Paris for bodies for anatomy, couldn't find Galen's black bile
+
+## Chapter 7. Remote Sympathy
+* Matthew Bailie and John Hunter had started removing tumors surgically
+* Discovery of anesthesia (1846)
+* Use of antisepsis in surgery by Joseph Lister(1867)
+* By early twentieth century, locally restricted cancers could be removed by surgery
