@@ -64,3 +64,14 @@
 * Discovery of anesthesia (1846)
 * Use of antisepsis in surgery by Joseph Lister(1867)
 * By early twentieth century, locally restricted cancers could be removed by surgery
+
+## Chapter 8. Radical Idea
+* Halsted became a surgical intern at the Bellevue hospital in New York
+* Traveled to Europe to learn refined European surgical techniques
+* He removed an infected gallbladder from his mother, first successful such operation in America
+* Later became addicted to cocaine. Later recruited by Johns Hopkins Hospital
+* Charles Moore started record each relapse after breast cancer surgery, and found recurrences had accumulated around the margins of the original surgery
+* Halsted decided to dig even deeper into the breast cavity—"radical mastectomy"
+* A competition among his students (who goes deeper) was happening
+* But his ability to cure patients depends on the stage of cancer, not how extensively a surgeon operated on the brest
+* More surgery had just not translated into more effective therapy
