@@ -27,3 +27,15 @@
     * Part of high costs of cancer care are due to high prices of cancer drugs (high R&D costs)
     * Insurance rates skyrocket for the past few decades, and healthcare providers have little incentive to keep costs down when insurance covers much of the care
     * Private sector doesn't not benefit from natural interventions (diet, vitamins, other alternative therapies)
+* Natural medicine is a double-edged sword—a wealth of information exists online but many patients are not scientifically literate and easy to fall into mis-information. Exclusively relying on natural therapies typically ends very poorly
+
+## Chapter 2. What is cancer?
+
+* Hallmarks of cancer (Hanahan and Weinburg, 2000)
+    * Has self-sufficient growth signals
+    * Is insensitive to anti-growth signals
+    * Evades apoptosis
+    * Has limitless replicative potential
+    * Possesses sustained angiogenesis (formation of new blood vessels)
+    * Spreads to distant sites (metastasis)
+* "Strong immune system is the best defense against cancer" is a misconception. The immune system recognizes no distinction between a cancer cell and a normal cell
