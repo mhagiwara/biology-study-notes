@@ -39,3 +39,21 @@
     * Possesses sustained angiogenesis (formation of new blood vessels)
     * Spreads to distant sites (metastasis)
 * "Strong immune system is the best defense against cancer" is a misconception. The immune system recognizes no distinction between a cancer cell and a normal cell
+* More focus on genetics, less focus on the causes of mutations and prevention
+* Environment factors
+    * Glyphosate (pesticide) is classified as Group 2A (probably carcinogenic to humans), although it has been widely used for corn and soy
+    * Many chemicals remain untested for cacinogenicity
+    * Dr Ryke Hamer found that traumatic life events set biochemical changes that could lead to cancer
+* Cancer as a metabolic disease
+    * Dr Otto Warburg received the Novel Prize for discovering the way cancer cells make energy
+    * Cancer cells burn sugar only energy and only produce 2 units of ATP (vs 32-36 units of normal cells)
+    * Dr Sayfried believes many hallmarks of cancer are all downstream of the primary issue—the interference of metabolism
+* Epigenetics—expression of certain genes is contingent upon a host of external factors
+
+## Chapter 3. What is integrative oncology?
+
+* Integrative oncology combines conventional medicine and alternative medicine, and offers a wider palette of therapies and treatments
+* Many patients receive "first-line" treatment, and then second-line treatment etc, i.e., one-size-fits-all approach
+* Oncologists don't tell you about nutrition, supplementation, exercise, stress reduction, natural or alternative therapies
+* Typical advice: "it does not matter what you eat, as long as you don't loose weight" -> not based on evidence!
+* Information given by nutritionist is very basic and poor
