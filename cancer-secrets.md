@@ -57,3 +57,6 @@
 * Oncologists don't tell you about nutrition, supplementation, exercise, stress reduction, natural or alternative therapies
 * Typical advice: "it does not matter what you eat, as long as you don't loose weight" -> not based on evidence!
 * Information given by nutritionist is very basic and poor
+* Integrative oncology embraces standard tools such as radiation and surgery
+* Integrative oncology treats cancer as a metabolic disease
+    * Cancer uses glucose, so a ketogenic diet can kill it? No, cancer will use other macronutrients, such as protein, fact etc.
