@@ -60,3 +60,11 @@
 * Integrative oncology embraces standard tools such as radiation and surgery
 * Integrative oncology treats cancer as a metabolic disease
     * Cancer uses glucose, so a ketogenic diet can kill it? No, cancer will use other macronutrients, such as protein, fact etc.
+
+## Chapter 4. Diagnosis
+
+* CBC with differential (immune system cells, red blood cells, hemoglobin etc.)
+* Comprehensive metabolic panel (blood glucose, kidney/liver health, electrolytes)
+    * Albumin level is an important status marker (optimal is at least 4 g/dL)
+* C-Reactive Protein (CPR) measures cellular inflammation
+* Hemoglobin A1c (for diagnosing diabetes, blood sugar control), the lower the better for cancer (5.2% or less)
