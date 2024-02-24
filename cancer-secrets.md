@@ -68,3 +68,11 @@
     * Albumin level is an important status marker (optimal is at least 4 g/dL)
 * C-Reactive Protein (CPR) measures cellular inflammation
 * Hemoglobin A1c (for diagnosing diabetes, blood sugar control), the lower the better for cancer (5.2% or less)
+* Vitamin B12 - High B12 levels are associated with higher chance of cancer, be cautious about supplementation
+* Vitamin D - Very important lab to measure, important for immune systems. Target=50-80 ng/mL when dealing with cancer
+* MRI is radiation-free and can take detailed images, but they are expensive and can be denied by insurance in favor of cheater options (CT scans)
+* PET scan uses contrast agents (radio-labeled glucose) to distinguish cancerous tumors. Can be expensive and insurance can deny coverage
+
+## Chapter 5. Treatments in Integrative Oncology
+
+* Chemotherapy is usually based on MTD (maximum tolerated dose). Integrative oncology uses fractionated chemotherapy (10-20% of MTD) with higher frequency
