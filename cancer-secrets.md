@@ -76,3 +76,7 @@
 ## Chapter 5. Treatments in Integrative Oncology
 
 * Chemotherapy is usually based on MTD (maximum tolerated dose). Integrative oncology uses fractionated chemotherapy (10-20% of MTD) with higher frequency
+* Insulin Potentiation Therapy (IPT): use insulin to make "dormant" cells susceptible to chemotherapy. Fasting 10-14 hours leading to chemo helps create an anti-cancer environment
+* Off-label use of pharmaceuticals
+    * Metformin (type 2 diabetes drug): diabetics who tke metformin have 54% lower risk of cancer. also kills cancer stem cells
+    * Aspirin: aspirin takers lower incidence of cancer. Low dose aspirin can increase survival by up to 20% and reduce metastases
