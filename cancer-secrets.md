@@ -80,3 +80,7 @@
 * Off-label use of pharmaceuticals
     * Metformin (type 2 diabetes drug): diabetics who tke metformin have 54% lower risk of cancer. also kills cancer stem cells
     * Aspirin: aspirin takers lower incidence of cancer. Low dose aspirin can increase survival by up to 20% and reduce metastases
+    * Propanolol (high blood pressure): stress plays a role (it spreads) in cancer
+    * Statins (lower cholesterol): positive effects on prevention and survival
+* Intravenous Vitamin C: "it does not have the profound anti-cancer effect we had hoped"
+* Pulsed Electromagnetic Field Therapy (PEMF)
