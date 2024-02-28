@@ -84,3 +84,29 @@
     * Statins (lower cholesterol): positive effects on prevention and survival
 * Intravenous Vitamin C: "it does not have the profound anti-cancer effect we had hoped"
 * Pulsed Electromagnetic Field Therapy (PEMF)
+
+## Chapter 6. The Role of Nutrition in Cancer Prevention and Treatment
+
+* 40-50% cancer cases could be prevented with lifestyle changes, and dietary changes are a significant portion
+* Conventional oncology: "it doesn't matter what you eat, so long as you do not lose too much weight" is wrong
+* Using diet alone as a treatment is ineffective
+* Food additives and contaminants to avoid
+    * sodium nitrite: used in cured and processed meat such as bacon and sausages. Leads to gastric cancers
+    * rBGH: bovine growth hormone. Could lead to increased level of IGF-1 which can promote tumors. Banned in Europe and Canada but not in the US
+* Tips on how to make your food safer
+    * Avoid processed food
+    * Avoid cured meats
+    * Eat organic whenever possible
+    * Eating out must become more of an occasional occurrence, rather than a regular practice
+* Nutrition is important, but you don't have to be perfect. 80/20 or 90/10 approaches work
+* Vegetables—cruciferous vegetables such as broccoli are rich in sulfuric compounds which have notable anti-cancer actions. Eat vegetables of various colors
+* Fruits—fructose effect is alleviated by fiber. Berries, apples, tomatoes, grapes, pineapples, and citrus fruits provide strong anti-cancer benefits
+* Eat raw: broccoli, cabbage, garlic and onions
+* Eat cooked: tomatoes, asparagus, carrots, mushrooms, spinach
+* Beans can lead to a lower risk of developing cancer. Eat canned food sparingly
+* Grains—gluten lead to a higher risk of cancer for those who are allergic to it. Sprouted grains (e.g., Ezekiel 4:9) have higher fiber content, vitamins and minerals, and are easier to digest
+* Attempting to starve cancer by depriving just one macro-nutrient wouldn't work
+* Include healthy fats as an essential component of an anti-cancer diet. A great way to maintain weight
+* Herbs and spices: garlic, turmeric, oregano, black cumin, saffron, black pepper, and chilli pepper are anti-cancer superstarts
+* Dr Stegall's Seven Superfoods: garlic, broccoli, carrots, beets, ginger, tomatoes, and cranberries
+* Smoothie (mixing) is better than juicing because of fiber
