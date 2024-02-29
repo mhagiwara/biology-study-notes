@@ -110,3 +110,17 @@
 * Herbs and spices: garlic, turmeric, oregano, black cumin, saffron, black pepper, and chilli pepper are anti-cancer superstarts
 * Dr Stegall's Seven Superfoods: garlic, broccoli, carrots, beets, ginger, tomatoes, and cranberries
 * Smoothie (mixing) is better than juicing because of fiber
+* Animals and fish
+    * methionine — normal cells grow without it, but cancer cells cannot. Rich in fish, eggs, chicken, tuna, beef, pork, and cheese. Another reason for a plant-focused diet
+    * red meat — can cause colorectal cancer. Prefer organic grass-fed and "grass-finished" meat. Do not overcook
+    * white meat — poultry consumption leads to a lower risk of lung cancer
+    * eggs — not necessary, but eating them occasionally is fine
+    * seafood — salmon, mackerel, sardines, trout, and herring are recommended (high in omega-3s). Tilapia is not recommended due to its high omega-6 content
+* Water — half of the bodyweight (lb) in ounces (e.g., 200 points -> 100 ounces)
+* Tea — some have anti-cancer properties (green tea and Essiac tea)
+* Coffee — 2-4 cups per day reduce the risk of certain cancers
+* Carbs — not necessarily bad, but strive for natural sources (vegetable,s fruits, beans, and grains)
+* Protein — one gram per bodyweight (kg). Exercising (resistance training) will require more (one gram per bodyweight in pounds). 
+* Sweeteners — avoid sucralose (Splenda) and aspartame (Equal). Opt for stevia and monk fruit. Xylitol and erythritol are okey in moderation
+* Fasting — intermittent fasting (8-hour eating window). Reduce chemotherapy-induced side effects, and potentially suppresses tumor progression and improves prognosis
+
