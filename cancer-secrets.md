@@ -124,3 +124,14 @@
 * Sweeteners — avoid sucralose (Splenda) and aspartame (Equal). Opt for stevia and monk fruit. Xylitol and erythritol are okey in moderation
 * Fasting — intermittent fasting (8-hour eating window). Reduce chemotherapy-induced side effects, and potentially suppresses tumor progression and improves prognosis
 
+## Chapter 7. Supplementation in Cancer Prevention and Treatment
+
+* Supplements are not intended to be a stand-alone treatment
+* Proper dosing is essential, fo possible interactions with other therapies, digestion, and absorption
+* Beta-1,3D Glucan
+* Curcumin/Termeric — typical anti-cancer dose is 2-4 grams per day. A mild blood thinner
+* DIM (diindolylmethane) — found in high levels in cruciferous vegetables.
+* EGCG — antioxidant in green tea. Drinking green tea does not provide therapeutic levels of EGCG
+* Melatonin — has a direct anti-cancer effect. Typical anti-cancer dosage is 20mg nightly, can increase to 40, 60, 80 mg. 
+* Probiotics
+
