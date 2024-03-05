@@ -134,4 +134,14 @@
 * EGCG — antioxidant in green tea. Drinking green tea does not provide therapeutic levels of EGCG
 * Melatonin — has a direct anti-cancer effect. Typical anti-cancer dosage is 20mg nightly, can increase to 40, 60, 80 mg. 
 * Probiotics
+* Vitamin D3 — optimal level is 60-80 ng/mL range. Hard to get only from sunlight
+* Zinc — present in p53 (tumor suppressor gene). Recommend 40-80 mg / day of chelated zinc
+
+## Chapter 8. Mind-Body Medicine
+
+* Amazing network of connections between the brain and the body
+* Women who had experienced significant, negative life events have higher risk of breast cancer
+* Studies found that reduction in stress leads to stronger immune functions and better quality of life
+* Research indicates what we say does influence our brains. Confessions such as "I feel good" "I am healed" "I am healthy" are simple and powerful.
+* Daily stress reduction—laughter, human touch, soothing music
 
