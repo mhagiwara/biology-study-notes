@@ -154,4 +154,18 @@
     2. Biopsies and surgeries should be avoided because they spread cancer — the benefits of biopsies overwhelmingly outweigh the risks. Leaving a tumor inside the body spreads cancer at an exponentially higher rate
     3. What you eat does not matter — diet can play a valuable role in cancer treatment. Certain vegetables, fruits, and foods high in fiber reduce the cancer risk. Key principles: a plant-focused diet, minimally-processed organic foods, methionine restriction, and intermittent fasting.
     4. Cancer is easily curable using natural methods only. Miraculous natural cancer cures are the exception, not the rule. Exclusive use of alternative therapies results in a much lower survival. It's like winning a lottery ticket
-    5. 
+    5. Cures are being withheld from you by big pharma
+    6. If something kills cancer in a petri dish, it will kill cancer in the body — many cell line (in vitro) studies are flawed. Many natural substances won't undergone rigorous studies in humans due to lack of funding
+    7. Alkaline diets cure cancer
+
+## Chapter 10. Cancer Prevention
+
+1. Avoid carcinogenic environmental exposures — second hand smoke, mold, radon gas, PM 2.5
+2. Maintain a healthy weight
+3. Do not get type II diabetes
+4. Do not lower your cholesterol too much — a correlation between low LDL cholesterol and an increased risk of cancer
+5. Avoid certain viruses
+6. Exercise regularly — reduces the risk of cancers of the head and neck, rectum, bladder, and lung in both current and former smokers. 150 mins / week of moderate exercise
+7. Minimize stress
+8. Get regular and adequate sleep — artificial light at night, night shifts are a risk for cancer. Importance of melatonin in breast cancer prevention (reduces tumor growth and cell proliferation)
+
