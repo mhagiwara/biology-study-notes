@@ -145,3 +145,13 @@
 * Research indicates what we say does influence our brains. Confessions such as "I feel good" "I am healed" "I am healthy" are simple and powerful.
 * Daily stress reduction—laughter, human touch, soothing music
 
+## Chapter 9. Cancer Myths and Magical Thinking
+
+* Negative impact of the internet—misinformation and a feeling of overwhelm
+* Rating therapies based on the level of evidence (A to F). An A-level study is typically done in humans over a longer period of time
+* 7 common myths about cancer
+    1. Cancer is a genetic disease — only 6-8% are purely genetic. By viewing cancer as a metabolic disease, we open ourselves up to a wider variety of effective treatments against the disease
+    2. Biopsies and surgeries should be avoided because they spread cancer — the benefits of biopsies overwhelmingly outweigh the risks. Leaving a tumor inside the body spreads cancer at an exponentially higher rate
+    3. What you eat does not matter — diet can play a valuable role in cancer treatment. Certain vegetables, fruits, and foods high in fiber reduce the cancer risk. Key principles: a plant-focused diet, minimally-processed organic foods, methionine restriction, and intermittent fasting.
+    4. Cancer is easily curable using natural methods only. Miraculous natural cancer cures are the exception, not the rule. Exclusive use of alternative therapies results in a much lower survival. It's like winning a lottery ticket
+    5. 
