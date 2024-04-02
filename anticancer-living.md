@@ -18,3 +18,10 @@
 ## 2. Our Healing Powers
 
 * Brazil nuts have high levels of selenium, a trace mineral that has been shown to reduce prostate cancer risk
+* The more cancer prevention guidelines someone follows, the greater the reduction in cancer risk and cancer-related death
+* Nothing feeds cancer like a sense of hopefulness—oncologists sense that mental outlook and emotional well-being are key to cancer survival
+* Study: people who had strong emotional support survived significantly longer after surgery compared to woman who reported less support
+
+## 3. What Causes Cancer, Anyway?
+
+* Only 5-10% of all cancers are caused by inherited genetic mutations
