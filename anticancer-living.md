@@ -25,3 +25,13 @@
 ## 3. What Causes Cancer, Anyway?
 
 * Only 5-10% of all cancers are caused by inherited genetic mutations
+* Quitting smoking at the time of diagnosis improves the survival drastically (29 -> 63%)
+
+## 4. A Cell's Quest for Immortality
+
+* One of cancer's enabling characteristics: tumor-promoting inflammation
+
+## 5. The Epigenetics of Prevention
+
+* Stress and epigenetics—people in poverty have changes in gene expression that make them more susceptible to developing cancers. Those effects are reversible
+* Evolutionary analysis of metastasis—metastasis paths show "branchlike" patterns, which even occurs before a primary tumor is diagnosed. Metastasis is driven by "driver mutations"
