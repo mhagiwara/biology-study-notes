@@ -35,3 +35,16 @@
 
 * Stress and epigenetics—people in poverty have changes in gene expression that make them more susceptible to developing cancers. Those effects are reversible
 * Evolutionary analysis of metastasis—metastasis paths show "branchlike" patterns, which even occurs before a primary tumor is diagnosed. Metastasis is driven by "driver mutations"
+
+## 6. Synergy and the Mix of Six
+
+* diet, environment (toxins), exercise, stress + social support, sleep
+* The benefit of each lifestyle factor is enhanced and heightened when we make changes in more than one area
+* Raising the kids the anticancer way—do by examples. 
+* Glenn Sabin's recovery from chronic lymphocytic leukemia (CLL) with only natural methods (documented in his book "n of 1")
+
+## 7. The Foundation is Love and Social Support
+
+* Giving our time to support others may improve our body's ability to prevent and overcome disease—volunteer work reduced early mortality rate by 22 percent.
+* "Early interventions targeting cancer survivors' social networks could improve quality of life during survivorship"
+* Research shows that when we stay connected to those who love and those who want to help us, cancer is less likely to progress, lives are extended, and overall health improves
