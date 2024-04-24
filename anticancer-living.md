@@ -48,3 +48,8 @@
 * Giving our time to support others may improve our body's ability to prevent and overcome disease—volunteer work reduced early mortality rate by 22 percent.
 * "Early interventions targeting cancer survivors' social networks could improve quality of life during survivorship"
 * Research shows that when we stay connected to those who love and those who want to help us, cancer is less likely to progress, lives are extended, and overall health improves
+* A 2017 study of women with breast cancer found that those with the most social ties were less likely to die from cancer
+* Those who were married had a 20 percent better chance of surviving than those who were either single, divorced, or widowed
+* Stronger social support -> reduced levels of the cancer hallmarks of: sustaining proliferative signaling, inducing angiogenesis, activating invasion and metastasis, avoiding immune destruction, and tumor-promoting inflammation.
+* People who have a purpose in life tend to be happier and healthier than their counterparts who are less purpose driven
+* Performing acts of kindness for others activates gene profiles reflective of reductions in inflammation and increase in antibody responses
