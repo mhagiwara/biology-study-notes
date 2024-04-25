@@ -53,3 +53,9 @@
 * Stronger social support -> reduced levels of the cancer hallmarks of: sustaining proliferative signaling, inducing angiogenesis, activating invasion and metastasis, avoiding immune destruction, and tumor-promoting inflammation.
 * People who have a purpose in life tend to be happier and healthier than their counterparts who are less purpose driven
 * Performing acts of kindness for others activates gene profiles reflective of reductions in inflammation and increase in antibody responses
+* What are my core values? Always learn, always open to diversity, always be different
+* Volunteering on a regular basis reduced early mortality rates by 22 percent
+
+## 8. Stress and Resilience
+* Chronic stress is associated with worse outcomes for those with cancer—stress dysregulates the immune system, and releases hormones that grow cancer
+* David Servan-Schreiber: “One of the best defenses against cancer is finding a place of inner calm.”
