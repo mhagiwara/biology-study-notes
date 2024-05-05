@@ -59,3 +59,7 @@
 ## 8. Stress and Resilience
 * Chronic stress is associated with worse outcomes for those with cancer—stress dysregulates the immune system, and releases hormones that grow cancer
 * David Servan-Schreiber: “One of the best defenses against cancer is finding a place of inner calm.”
+* Jon Kabat-Zinn developed mindfulness-based stress reduction (MBSR)
+* Their research showed those who had been through MBSR had an enhanced immune response in a dose-response manner
+* Research found that meditation reduces inflammation and the experience of pain
+* there is a growing body of research that does link chronic stress with cancer tumor growth and with cancer proliferation.
