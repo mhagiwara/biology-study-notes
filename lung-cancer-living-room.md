@@ -20,3 +20,27 @@ https://vimeo.com/showcase/8628314/video/913571176
 * don't be afraid of chemotherapy, today's chemo made lots of progress—Pemetrexed (Alimta) - wasn't around 20 years ago, much better tolerated. we also have better drugs to prevent/manage side effects
 * lots of trials looking at mutation, but the number of limited to each subgroup. small window where patients need to find a new treatment
 
+## Lung Cancer Living Room: The State of Lung Cancer Today - 06/15/20 - Edited
+https://vimeo.com/showcase/8628271/video/433377508
+
+* chemotherapy and how it has changed in the last 50 years
+    * medications that treat nausea and other side effects are significantly better
+    * chemo drugs don't necessarily cause hair loss
+    * "Chemo is better tolerated these days than it was twenty years ago because of the supportive medications we have right now."
+    * targeted therapies + chemo
+* how has radiation therapy evolved
+    * can target very specifically
+    * brain metastasis minimize damage to normal tissues
+    * Stereotactic body radiation therapy (SBRT)
+* targeted therapy
+    * first drug in 2009 for EGFR
+    * now have KRAS and HER2
+* immunotherapy
+    * great for subset of people, but not for others, just like targeted therapy
+    * genomic alterations, PD-L1
+    * some people "cured" this incurable disease
+* sclc
+* early detection
+* surgery
+* you don't get placebo during clinical trials—they usually compare the best option and the tested options
+* early screening
