@@ -63,3 +63,11 @@
 * Their research showed those who had been through MBSR had an enhanced immune response in a dose-response manner
 * Research found that meditation reduces inflammation and the experience of pain
 * there is a growing body of research that does link chronic stress with cancer tumor growth and with cancer proliferation.
+* Gratitude lowers stress hormone and inflammation
+* Cognitive behavioral stress management (CBSM) fared over the longer term
+* Meditation has been shown to lesson the side effects of chemo, lower cortisol levels, and reduce inflammation.
+
+## 9. The Need for Rest and Recovery
+
+* When we aren't well-rested, there are negative effects on key cancer hallmarks, including increased inflammation and decreased immune function, leading to tumor growth. 
+* Dysregulated cortisol rhythm is linked with increased mortality in many cancers, including lung.
