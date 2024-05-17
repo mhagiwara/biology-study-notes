@@ -71,3 +71,13 @@
 
 * When we aren't well-rested, there are negative effects on key cancer hallmarks, including increased inflammation and decreased immune function, leading to tumor growth. 
 * Dysregulated cortisol rhythm is linked with increased mortality in many cancers, including lung.
+* Some scientists classify long-term shift work as a "probable" carcinogen
+* Michael Phelps sleeps 8h + 2-3h per day. So does Usain Bolt
+* More than 90% of all American high school students are sleep deprived
+* "Oversleepers" are not enjoying quality sleep, raising their risk of developing heard disease, obesity, depression, and chronic illnesses
+* Poor sleep has been linked to increased cancer risk and poorer outcomes for cancer survivors
+* Sleeping pills do not tackle the root problem leading to sleep disturbances. Pill-assisted sleep is not truly restorative sleep
+* Methods for improving sleep: CBT-I, Tai Chi, meditation, Yoga
+* Light therapy is effective for cancer-related fatigue for patients going through chemotherapy
+
+
