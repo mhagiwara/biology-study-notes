@@ -85,4 +85,7 @@
 * Physical inactivity is as detrimental as smoking or eating poorly
 * Benefits: reduce stress, promote mental health, sleep better, reduce obesity
 * Spend time outside— shinrin-yoku has not just mood but also has physiological responses.
-
+* Among prostate cancer patients, men who were the most active reduced their mortality by 40%. Breast cancer survivors who exercised at a moderate level had 50% reduction of recurrence.
+* Resting makes the side effects of cancer treatments worse. Best treatment for fatigue was physical activity, better than any pharmacological treatment
+* Patients who exercised during chemo or radiation: more likely to receive all treatments, fewer side effects, improved QoL
+* Our bodies are not made for extended periods of sitting. colon cancer patients who sat more than six hours -> 30% more mortality, even after controlling for physical activity
