@@ -78,6 +78,11 @@
 * Poor sleep has been linked to increased cancer risk and poorer outcomes for cancer survivors
 * Sleeping pills do not tackle the root problem leading to sleep disturbances. Pill-assisted sleep is not truly restorative sleep
 * Methods for improving sleep: CBT-I, Tai Chi, meditation, Yoga
-* Light therapy is effective for cancer-related fatigue for patients going through chemotherapy
+* Light therapy (being exposed to bright light for thirty minutes every morning) is effective for cancer-related fatigue for patients going through chemotherapy
 
+## 10. Moving for Wellness
+
+* Physical inactivity is as detrimental as smoking or eating poorly
+* Benefits: reduce stress, promote mental health, sleep better, reduce obesity
+* Spend time outside— shinrin-yoku has not just mood but also has physiological responses.
 
