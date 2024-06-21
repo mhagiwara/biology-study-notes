@@ -24,3 +24,13 @@
 * digital acoustic recording tags (DTAGs) equipped with hydrophone, accelerometer, magnetometer, provide valuable insights
 
 ## Quiet Thunder
+
+* Elephant poaching in Africa (Kenya)
+* Katy Payne recoding elephant infrasounds (conversation through the wall)
+* Joyce Pool started working on elephants' vocal and social behaviors, launched the Elephant Listening Project in the African rainforest, using ARUs (autonomous recording units)
+* They povited to use bioacoustics to prevent poaching, using source separation technique ("Deep Karaoke")
+* For farmer-elephant conflict, Lucy King started the Human-Elephant Coexistence Program, using African honeybees to defer them. Elephants have a specific word for "honeybee"
+* Joyce Pool et al.'s the Elephant Ethogram (list of behaviors)
+* Payne's discoveries reveal a deeply human bias towards infrasonic and existence of elephant communication
+
+## Voice of the Turtle
