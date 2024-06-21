@@ -89,3 +89,13 @@
 * Resting makes the side effects of cancer treatments worse. Best treatment for fatigue was physical activity, better than any pharmacological treatment
 * Patients who exercised during chemo or radiation: more likely to receive all treatments, fewer side effects, improved QoL
 * Our bodies are not made for extended periods of sitting. colon cancer patients who sat more than six hours -> 30% more mortality, even after controlling for physical activity
+* Exercise counteracts aging caused by chemotherapy
+* Exercise impacts ALL the cancer hallmarks, especially, sustaining proliferative signaling, metabolism, immune function, and inflammation
+* Walking is as effective as other exercises re reducing inflammation and protecting against chemo cognitive side effects
+* exercise better than medications re: reducing fatigue
+* yoga and tai chi are effective
+* Simply sitting less and moving more is better than exercising an hour a day if you sedentary for fourteen hours
+* Break up your sitting time hourly (by sitting up)
+* Stand up periodically on long flights
+
+## 11. Food as Medicine
