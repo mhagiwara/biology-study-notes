@@ -28,9 +28,13 @@
 * Elephant poaching in Africa (Kenya)
 * Katy Payne recoding elephant infrasounds (conversation through the wall)
 * Joyce Pool started working on elephants' vocal and social behaviors, launched the Elephant Listening Project in the African rainforest, using ARUs (autonomous recording units)
-* They povited to use bioacoustics to prevent poaching, using source separation technique ("Deep Karaoke")
+* They pivoted to use bioacoustics to prevent poaching, using source separation technique ("Deep Karaoke")
 * For farmer-elephant conflict, Lucy King started the Human-Elephant Coexistence Program, using African honeybees to defer them. Elephants have a specific word for "honeybee"
 * Joyce Pool et al.'s the Elephant Ethogram (list of behaviors)
 * Payne's discoveries reveal a deeply human bias towards infrasonic and existence of elephant communication
 
 ## Voice of the Turtle
+
+* Camila Ferrara working on the first systematic scientific study of turtle sounds—experts were skeptical at first that turtles making any noise
+* "Not only did the turtles make noise, they made lots of it, day and night."
+* Turtles use an underwater communication system with a repertoire of complex sounds
