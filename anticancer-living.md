@@ -110,3 +110,12 @@
     * Nicoya, Costa Rica
     * Okinawa, Japan
     * Ikaria, Greece
+* Story on unplugging a donut machine
+* Clear evidence on the connection between high blood-sugar and cancer
+* High GI foods are linked to high chance of developing lung cancer, especially for never smokers
+* Synergy of diet and exercise—women who modified both diet exercise had better survival outcomes, but those who modified just one did not
+* More mushrooms and green tea -> lower breast cancer risk. Doing both has a greater effect
+* Protein intake: maintain 1.2g per kg (e.g., 72kg -> 86g of protein)
+* Diary causes inflammation — consider nondairy milk alternatives
+* Chinese women who ate the most soy were more likely to survive a lung cancer diagnosis
+* Drink at least three cups of green tea per day
