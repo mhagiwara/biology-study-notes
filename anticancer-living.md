@@ -99,3 +99,14 @@
 * Stand up periodically on long flights
 
 ## 11. Food as Medicine
+
+* Clear connection between the microbiome and many cancers, including lung. The more diverse, the better
+* Mediterranean diet and lower risk of some cancers with a dose-response effect
+* 10+ portions of fruits and vegetables a day -> lower risk of cancer with a dose-response effect
+* A high-vegetable diet -> low calorie, carbohydrate, and GI -> decreased inflammation
+* Blue zones:
+    * Loma Linda, California
+    * Sardinia, Italy
+    * Nicoya, Costa Rica
+    * Okinawa, Japan
+    * Ikaria, Greece
