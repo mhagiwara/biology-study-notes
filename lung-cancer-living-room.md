@@ -44,3 +44,34 @@ https://vimeo.com/showcase/8628271/video/433377508
 * surgery
 * you don't get placebo during clinical trials—they usually compare the best option and the tested options
 * early screening
+
+## Rapid Response Living Room - Treatment Adaptations at All Stages - 05/19/20 - Edited
+
+https://vimeo.com/showcase/8628271/video/421646378
+
+Skipped because it's mostly about COVID
+
+
+## Lung Cancer Living Room™ - Personalized Medicine, Diagnostics & Treatments - April 20, 2021 - Edited
+
+https://vimeo.com/showcase/8628271/video/549560268
+
+* New therapies approved within the last 5 years more than 5 decades
+* Biomarker testing is important, lung cancer is very heterogenous disease
+* NSCLC vs SCLC -> molecular profile
+* markers for immune system and immune function
+* For squamous (扁平上皮) cancer (more for smokers) and SCLC, immunotherapy is becoming a mainstay
+* Comprehensive vs single-gene testing. 7-8 genes
+* Now we have drugs for KRAS
+* Liquid biopsy for tumors that are hard to do biopsy
+* When tumors regrow, do biopsy
+* EGFR registers https://egfrcancer.org/
+* osimertinib less toxicity, more penetration into brain, doing trial
+* chemotherapy
+* cisplatin/carboplatin with radiation can kill cancer tumors
+* So many supportive care for side effects
+* Adjuvant therapy
+* Immunotherapy — some patients doing well from 2010 Squ cancer
+* Works only 10-15% of patients (e.g., PDL1)
+* Tumor boards, team get together and discuss treatment
+* Palliative care - bring early and improves survival 
